@@ -104,7 +104,7 @@
 ## 7. 부록 / 참고 자료 (Appendix / References)
 
 - **GitHub 저장소**: https://github.com/jrkgus413/nb2-dearcarmate‑team1  
-- **데모 영상** (Notion 링크): 노션에 업로드된 비디오 링크  
+- **데모 영상** [Dear Carmate 시연영상](https://file.notion.so/f/f/a29b669d-e680-438e-b18c-08888fc54a21/2a51be65-35b2-493f-9fbe-441274b1a841/nb02-dear-carmate.mp4?table=block&id=24c6fd22-8e8d-8122-9baa-dce2875d5ac6&spaceId=a29b669d-e680-438e-b18c-08888fc54a21&expirationTimestamp=1755100800000&signature=OnkjaTc0UBDNyf5mVOVEJt3beNM9z_eqrr4uwWu1cIY&downloadName=nb02-dear-carmate.mp4)
 - **API 문서 / 관리 문서**:
   - 프로젝트 계획서
   - 프로젝트 관리 문서 (GitHub Wiki)
